@@ -3,3 +3,6 @@ dist/
 *.db
 *.log
 .DS_Store
+.claude/
+.claude-flow/
+.ruvector/
